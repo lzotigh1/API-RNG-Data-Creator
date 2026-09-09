@@ -1,0 +1,6 @@
+@API_RNG_Data_Creator_HostAddress = http://localhost:5162
+
+GET {{API_RNG_Data_Creator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
